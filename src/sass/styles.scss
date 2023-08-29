@@ -1,0 +1,11 @@
+@import "variables";
+@import "components/aside";
+
+.container {
+    display: flex;
+}
+
+.navigation {
+    font-size: 45px;
+    padding: 1em;
+}
